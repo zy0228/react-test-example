@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<a
+  className="normal"
+  href="http://www.baidu.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Baidu
+</a>
+`;
+
+exports[`随机事实性的快照 1`] = `
+Object {
+  "age": Any<Number>,
+  "date": Any<Date>,
+  "name": "snoop",
+}
+`;
